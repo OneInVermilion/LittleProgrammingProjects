@@ -1,0 +1,421 @@
+Arbeiten		Work
+Kommen			Come
+Brauchen		Need
+Sehen			See
+Laufen			Run
+Mӧgen			Like
+Nehmen			Take
+Kochen			Cook
+Malen			Paint
+Schwimmen		Swim
+Spielen			Play
+Sprechen		Speak
+Leben			Live
+Kosten			Cost
+Wandern			Hike
+Haben			Have
+Helfen			Help
+Gehen			Go
+Reisen			Travel
+Machen			Make, Do
+Lernen			Study
+Sagen			Say
+Geben			Give
+Fahren			Drive, Ride
+Joggen			Jog
+Frühstücken		Have breakfast
+Surfen			Surf
+Singen			Sing
+Fotografiere		Take photos
+Möchten			Want
+Können			Can
+Verlassen		Leave
+Warten			Wait
+Kaufen			Buy
+Müssen			Must
+Passen			Fit
+Zusammen		Together
+Gut			Good
+Schlecht		Bad
+Schӧn			Nice, Beautiful
+Nett			Nice, Kind, Pleasant
+Groß			Big, Tall
+Klein			Small, Little, Short
+Klug			Smart
+Jung			Young
+Alt			Old
+Elegante		Elegant
+Reich			Rich
+Teuer			Expensive
+Billig			Cheap
+Schnell			Quick
+Krank			Sick
+Neu			New
+Warm			Warm
+Perfekt			Perfect
+Wunderbar		Wonderful
+Heiß			Hot
+Kalt			Cold
+Lecker			Delicious
+Cool			Cool
+Laut			Loud
+Aufregend		Exciting
+Aufregt			Excited
+Stressig		Stressful
+Interessant		Interesting
+Deutsch			German
+Englisch		English
+Stark			Strong, Powerful, Severe
+Warm			Warm
+Nervӧs			Nervous
+Gleich			Similar, Same, Identical
+Richtig			Right, Correct
+Schwer			Difficult
+Einfach			Easy
+Süß			Cute, Sweet
+Lustig			Funny
+Eigentlich		Actually
+Geöffnet		Open
+Modern			Modern
+Hässlich		Ugly
+Bequem			Comfortable
+Sauber			Clean
+Hell			Bright
+Dunkel			Dark
+Fantastisch		Fantastic
+Nächste			Next
+Ganz			Whole
+Schick			Stylish
+Der Mann		Man, Husband
+Die Frau		Woman, Wife
+Der Junge		Boy
+Die Mädchen		Girl
+Der Freund		Friend
+Das Buch		Book
+Der Markt		Market
+Der Supermarkt		Supermarket
+Das Hemd		Shirt
+Das Kaufhaus		Department store
+Der Beruf		Profession
+Die Arbeit		Work
+Das Restaurant		Restaurant
+Die Speisekarte		Menu
+Das Essen		Food
+Die Rechnung		Check, Bill
+Die Stadt		City, Town
+Der Schüler		Student
+Der Student		College student
+Das Klavier		Piano
+Das Schach		Chess
+Der Park		Park
+Der Bahnhof		Train station
+Der Taxistand		Taxi stand
+Die Kirche		Church
+Die Bibliothek		Library
+Die Apotheke		Pharmacy
+Das Hotel		Hotel
+Das Museum		Museum
+Das Café		Coffee shop
+Die Bächerei		Backery
+Der Geldautomat		ATM
+Die U-Bahnstation	Subway station
+Die Universität		University
+Das Kino		Movie theater
+Der Marktplatz		Marketplace
+Der Dollar		Dollar
+Der Euro		Euro
+Der Regenschirm		Umbrella
+Der Schal		Scarf
+Die Wasserflasche	Water bottle
+Die Sonnencreme		Sunscreen
+Die Sprache		Language
+Die Muttersprache	Mother tongue
+Die Tüte		Paper bag
+Das Geburtstag		Birthday
+Das Geschenk		Gift
+Der Urlaub		Vacation
+Der Fußball		Football
+Der Basketball		Basketball
+Der Volleyball		Volleyball
+Der Kurs		Course
+Die Tür			Door
+Der Spaß		Fun
+Das Geld		Money
+Das Schwimmbad		Swimming pool
+Das Spiel		Game
+Das Konzert		Concert
+Die Eintrittskarte	Admission ticket
+Der Partner		Partner
+Der Mitbewohner		Roommate
+Das Date		Romantic date
+Das Stück		Piece
+Die Größe		Size
+Der Aufzug		Elevator
+Die Toilette		Toilet
+Der Vater		Father
+Die Mutter		Mother
+Der Bruder		Brother
+Die Schwester		Sister
+Der Sohn		Son
+Die Tochter		Daughter
+Der Onkel		Uncle
+Die Tante		Aunt
+Der Opa			Grandpa
+Die Oma			Grandma
+Die Eltern		Parents
+Das Tier		Animal
+Der Mensch		Human
+Der Hund		Dog
+Die Katze		Cat
+Das Pferd		Horse
+Die Biene		Bee
+Die Eule		Owl
+Der Elefant		Elephant
+Der Bär			Bear
+Die Maus		Mouse
+Der Fisch		Fish
+Die Schnecke		Snail
+Der Papagei		Parrot
+Das Wasser		Water
+Das Brot		Bread
+Die Milch		Milk
+Der Tee			Tea
+Der Kaffee		Coffee
+Der Wine		Wine
+Das Bier		Beer
+Das Sandwich		Sandwich
+Der Käse		Cheese
+Das Salz		Salt
+Die Pizza		Pizza
+Der Salat		Salad
+Das Ei			Egg
+Die Wurst		Sausage
+Das Mineralwasser	Mineral water
+Das Schnitzel		Schnitzel
+Die Orange		Orange
+Der Dӧner		Doner kebab
+Die Tomate		Tomato
+Die Erdbeere		Strawberry
+Die Kartoffel		Potato
+Der Kuchen		Cake
+Der Arzt, Die Ärztin	Doctor
+Der Kellner		Waiter
+Der Schauspieler	Actor
+Der Professor		Professor
+Der Lehrer		Teacher
+Der Kanzler		Chancellor
+Der Polizist		Police officer
+Der Künstler		Artist
+Der Anwalt, Die Anwältin	Lawyer
+Das Deutschland		Germany
+Das Amerika		America
+Das Kanada		Canada
+Das Österreich		Austria
+Das Wien		Vienna
+Das Frankreich		France
+Das München		Munich
+Das Russland		Russia
+Das Schweden		Sweden
+Türkisch		Turkish
+Polnish			Polish
+Franzӧsisch		French
+Schwedisch		Swedish
+Spanisch		Spanish
+Russisch		Russian
+Schatz			Sweetheart
+Etwas			Something
+Alles			Everything, All
+Die Zeit		Time
+Das Jahr		Year
+Nie			Never
+Manchmal		Sometimes
+Oft			Often
+Immer			Always
+Heute			Today
+Jetzt			Now
+Der Montag		Monday
+Der Dientag		Tuesday
+Der Mittwoch		Wednesday
+Der Donnerstag		Thursday
+Der Freitag		Friday
+Der Samstag		Saturday
+Der Sonntag		Sunday
+Der Nachmittag		Afternoon
+Das Wochenende		Weekend
+Die Woche		Weekend
+Der Wetter		Weather
+Das Winter		Winter
+Das Früling		Spring
+Das Sommer		Summer
+Das Herbst		Autumn
+Sonnig			Sunny
+Bewӧlkt			Cloudy
+Regnet			Rainy
+Windig			Windy
+Schneit			Snowy
+Neblig			Foggy
+Die Hand		Hand
+Das Motorrad		Motorcycle
+Die Angst		Anger
+Das Haus		House
+Das Zimmer		Room
+Die Wohnung		Apartment
+Das Wohnzimmer		Living room
+Das Badezimmer		Bathroom
+Das Schlafzimmer	Bedroom
+Die Küche		Kitchen
+Der Tisch		Table
+Der Stuhl		Chair
+Der Teppich		Carpet
+Die Couch		Couch
+Der Schreibtisch	Desk
+Der Schrank		Closet
+Die Lampe		Lamp
+Das Bett		Bed
+Das Bücherregal		Bookshelf
+Die Kleidung		Clothes
+Die Jacke		Jacket
+Das T-shirt		T-shirt
+Die Bluse		Blouse
+Das Kleid		Dress
+Das Hemd		Shirt
+Die Schuhe		Shoes
+Der Pullover		Sweater
+Die Jeans		Jeans
+Die Farbe		Color
+Rote			Red
+Orange			Orange
+Gelb			Yellow
+Grün			Green
+Blau			Blue
+Lila			Purple
+Schwarze		Black
+Rosa			Pink
+Was			What
+Wo			Where
+Wann			When
+Woher			From Where
+Wie			How
+Warum			Why
+Wohin			Where To
+Wer			Who
+Welche			Which
+Brechen			Break
+Die Zunge		Tongue
+Kratzen			Scratch
+Die Aufgabe		Task
+Die Übung		Excersize
+Üben			Excersize
+Die Antwort		Answer
+Antworten		Answer
+Leider			Unfortunately
+Die Geschwister		Siblings
+Der/Die Ehepartner*in	Spouse
+Das Kind		Child
+Der Teil		Part
+Lesen			Read
+Folgende		Following
+Zahlen			Pay
+Ledig			Single
+Geschieden		Divorced
+Verheiratet		Married
+Sammeln			Collect
+Hören			Hear
+Glauben			Believe, Think
+Die Nichte		Niece
+Der Neffe		Nephew
+Die Auskunft		Information
+Der Zahn		Tooth
+Der Satz		Sentence
+Der Nachbar		Neighbour
+Dort			There
+Einige			Some
+Viel			Many
+Wenige			Few
+Vielleicht		Maybe
+Andere			Other
+Anders			Different
+Wieder			Again
+Gleich			Equal, Same, Identical
+Verschieden		Different, Various
+Restlich		Remaining
+Wissen			Know
+Denken			Think
+Möglich			Possible
+Die Bevölkerung		Population
+Verwenden		Use, Utilize, Apply
+Benutzen		Use, Utilize
+Die Welt		World
+Die Erde		Earth
+ca., Zirka		Approximately
+Komma			Comma
+Punkt			Point, Dot, Full Stop
+Das Mal			Time (X amount of times)
+Bleiben			Remain
+Fremd			Alien, Foreign
+Ergänzen		Complete, Add
+Ganz			Full, Whole
+Werden			Become
+Bekommen		Get, Obtain, Receive
+Wichtig			Important
+Das Gespräch		Talk
+Langweilig		Boring
+Das Bild		Image, Picture
+Die Verwaltung		Administration
+Wiederholen		Repeat
+Die Zeitung		Newspaper
+Erklären		Explain
+Bedeuten		Mean
+Besuchen		Visit
+Die Münze		Coin
+Die Leute		People, Folks
+Die Zukunft		Future
+Die Vergangenheit	Past
+Der Bleistift		Pencil
+Der Stift		Pen
+Der Befehl		Order, Command
+Die Ordnung		Order, Rules
+Der Ordner		Folder
+Die Notiz		Note
+Der Bildschirm		Screen, Display
+Das Loch		Hole
+Die Tasche		Pocket
+Der Rauch		Smoke
+Die Schere		Scissors
+Das Gerät		Device
+Die Taste		Button
+Every			Jeden
+Das Jahr		Year
+Die Wirtschaft		Economy
+Treffen			Meet
+Sicher			Secure, Safe
+Tanzen			Dance
+Die Sachen		Things, Stuff, Property
+Dinge			Things
+Fehlen			Lack
+Die Uhr			Clock
+Die Wand		Wall
+Die Puppe		Doll
+Die Tastatur		Keyboard
+Geben			Give
+Schlafen		Sleep
+Tragen			Wear
+Anmelden		Register, Log On
+Benennen		Name
+Sehenswürdigkeiten	Attractions
+Der Fernseher		TV
+Das Fahrrad		Bicycle
+Die Tasse		Cup
+Der Kopf		Head
+Der Mund		Mouth
+Das Auge		Eye
+Das Ohr			Ear
+Die Nase		Nose
+Das Gesicht		Face
+Der Hals		Neck, Throat
+Die Brust		Chest (Body Part)
+Der Bauch		Stomach, Belly
+Der Arm			Arm
+Die Hand		Hand
+Das Bein		Leg
+Der Fuß			Foot
