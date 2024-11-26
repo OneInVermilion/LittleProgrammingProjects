@@ -1,4 +1,4 @@
-# FunnyLittleProgProjects
+# LittleProgrammingProjects
 Personal Programming Projects, too small for their own repository
 
 Contents:
