@@ -1,5 +1,5 @@
 # FunnyLittleProgProjects
-Personal Programming Projects
+Personal Programming Projects, too small for their own repository
 
 Contents:
 1. Anygma [Py] - Encoding text messages into PNG images and decoding them back. Currently being redone with better quality, functionality and UI on Java
